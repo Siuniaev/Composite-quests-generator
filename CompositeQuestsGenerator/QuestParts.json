@@ -1,0 +1,252 @@
+﻿[
+    {
+        "Id": 1,
+        "Description": "In the location",
+        "NextVariants": [2, 3, 4]
+    },
+
+    {
+        "Id": 2,
+        "Description": "Forest",
+        "NextVariants": [5, 6, 7]
+    },
+    {
+        "Id": 3,
+        "Description": "Wasteland",
+        "NextVariants": [5, 6, 7]
+    },
+    {
+        "Id": 4,
+        "Description": "Cave",
+        "NextVariants": [5, 6, 7]
+    },
+
+    {
+        "Id": 5,
+        "Description": "collect",
+        "NextVariants": [8, 9, 10]
+    },
+    {
+        "Id": 6,
+        "Description": "kill",
+        "NextVariants": [11, 12, 13]
+    },
+    {
+        "Id": 7,
+        "Description": "find",
+        "NextVariants": [14, 15, 16]
+    },
+
+    {
+        "Id": 8,
+        "Description": "berries",
+        "NextVariants": [17, 18, 19]
+    },
+    {
+        "Id": 9,
+        "Description": "minerals",
+        "NextVariants": [20, 21, 22]
+    },
+    {
+        "Id": 10,
+        "Description": "mushrooms",
+        "NextVariants": [23, 24, 25]
+    },
+    {
+        "Id": 17,
+        "Description": "Strawberry",
+        "NextVariants": [26, 27, 28]
+    },
+    {
+        "Id": 18,
+        "Description": "Blueberry",
+        "NextVariants": [26, 27, 28]
+    },
+    {
+        "Id": 19,
+        "Description": "Cherry",
+        "NextVariants": [26, 27, 28]
+    },
+    {
+        "Id": 20,
+        "Description": "Iron",
+        "NextVariants": [26, 27, 28]
+    },
+    {
+        "Id": 21,
+        "Description": "Gold",
+        "NextVariants": [26, 27, 28]
+    },
+    {
+        "Id": 22,
+        "Description": "Silver",
+        "NextVariants": [26, 27, 28]
+    },
+    {
+        "Id": 23,
+        "Description": "Oyster",
+        "NextVariants": [26, 27, 28]
+    },
+    {
+        "Id": 24,
+        "Description": "Toadstool",
+        "NextVariants": [26, 27, 28]
+    },
+    {
+        "Id": 25,
+        "Description": "Truffle",
+        "NextVariants": [26, 27, 28]
+    },
+
+    {
+        "Id": 26,
+        "Description": "1 piece"
+    },
+    {
+        "Id": 27,
+        "Description": "10 pieces"
+    },
+    {
+        "Id": 28,
+        "Description": "100 pieces"
+    },
+
+    {
+        "Id": 11,
+        "Description": "monster",
+        "NextVariants": [29, 30, 31]
+    },
+    {
+        "Id": 12,
+        "Description": "character",
+        "NextVariants": [51, 35, 36]
+    },
+    {
+        "Id": 13,
+        "Description": "boss",
+        "NextVariants": [32, 33]
+    },
+
+    {
+        "Id": 29,
+        "Description": "Boar",
+        "NextVariants": [33, 34, 40]
+    },
+    {
+        "Id": 30,
+        "Description": "Spider",
+        "NextVariants": [33, 34, 40]
+    },
+    {
+        "Id": 31,
+        "Description": "Wolf",
+        "NextVariants": [33, 34, 40]
+    },
+
+    {
+        "Id": 51,
+        "Description": "Ork",
+        "NextVariants": [37, 38, 39]
+    },
+    {
+        "Id": 35,
+        "Description": "Dwarf",
+        "NextVariants": [37, 38, 39]
+    },
+    {
+        "Id": 36,
+        "Description": "Elf",
+        "NextVariants": [37, 38, 39]
+    },
+
+    {
+        "Id": 37,
+        "Description": "Archer",
+        "NextVariants": [32, 33, 34]
+    },
+    {
+        "Id": 38,
+        "Description": "Warrior",
+        "NextVariants": [32, 33, 34]
+    },
+    {
+        "Id": 39,
+        "Description": "Wizard",
+        "NextVariants": [32, 33, 34]
+    },
+
+    {
+        "Id": 32,
+        "Description": "1 time"
+    },
+    {
+        "Id": 33,
+        "Description": "10 times"
+    },
+    {
+        "Id": 34,
+        "Description": "100 times"
+    },
+    {
+        "Id": 40,
+        "Description": "1000 times"
+    },
+
+    {
+        "Id": 14,
+        "Description": "NPC",
+        "NextVariants": [41, 42, 43]
+    },
+    {
+        "Id": 15,
+        "Description": "artifact",
+        "NextVariants": [44, 45, 46]
+    },
+    {
+        "Id": 16,
+        "Description": "treasure",
+        "NextVariants": [49, 50]
+    },
+
+    {
+        "Id": 41,
+        "Description": "Drochislav the Wise"
+    },
+    {
+        "Id": 42,
+        "Description": "Vezdessun the Sneaky"
+    },
+    {
+        "Id": 43,
+        "Description": "Naglozhop the Sly"
+    },
+    {
+        "Id": 44,
+        "Description": "altar",
+        "NextVariants": [47, 48]
+    },
+    {
+        "Id": 47,
+        "Description": "Demon's"
+    },
+    {
+        "Id": 48,
+        "Description": "of Wisdom"
+    },
+    {
+        "Id": 45,
+        "Description": "dungeon entrance"
+    },
+    {
+        "Id": 46,
+        "Description": "hidden path"
+    },
+    {
+        "Id": 49,
+        "Description": "chest"
+    },
+    {
+        "Id": 50,
+        "Description": "tomb"
+    }
+]
