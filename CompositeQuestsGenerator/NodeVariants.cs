@@ -13,7 +13,7 @@ public class NodeVariants
     {
         _index = index;
         _parentNode = parent;
-        _nextVariants = Enumerable.Range(0, nextVariantsCount).ToHashSet().ToList();
+        _nextVariants = Enumerable.Range(0, nextVariantsCount).ToList();
         _usedVariants = new NodeVariants[nextVariantsCount];
     }
 
